@@ -27,7 +27,7 @@ max_transactions_per_account = 4000
 min_transactions_per_labeler = 16000
 max_transactions_per_labeler = 24000
 
-plaid_filename = "../../data/plaid.csv"
+plaid_filename = "./data/plaid.csv"
 internal_filename = "../../data/internal.csv"
 output_dir = "../../data/to_label"
 
